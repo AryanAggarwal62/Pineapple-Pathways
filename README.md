@@ -51,7 +51,7 @@ Each team member expanded their skill set by learning and implementing:
 
 ## Demo
 
-- **Try It Out**: [Live Demo](https://ai-teacher-njyu-git-main-gorgocaptaingmailcoms-projects.vercel.app/) *(Link to be added if applicable)*
+- **Try It Out**: [Live Demo](https://ai-teacher-njyu-git-main-gorgocaptaingmailcoms-projects.vercel.app/)
 - **Learn More**: [Devpost](https://devpost.com/software/pineapple-pathways)
 
 ## Built With
